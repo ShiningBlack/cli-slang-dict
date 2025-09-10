@@ -1,3 +1,10 @@
+# build folder
+/build/
+
+# IDE specific files
+.vscode/
+.idea/
+
 # Prerequisites
 *.d
 
