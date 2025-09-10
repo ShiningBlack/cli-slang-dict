@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/client_app.dir/main.cpp.o -o client_app  /usr/local/lib/libftxui-screen.a /usr/local/lib/libftxui-dom.a /usr/local/lib/libftxui-component.a /usr/local/lib/libftxui-dom.a /usr/local/lib/libftxui-screen.a 

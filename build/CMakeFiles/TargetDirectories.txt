@@ -1,0 +1,11 @@
+/home/shiny/projects/cli-slang-dict/build/CMakeFiles/edit_cache.dir
+/home/shiny/projects/cli-slang-dict/build/CMakeFiles/rebuild_cache.dir
+/home/shiny/projects/cli-slang-dict/build/server/CMakeFiles/server_app.dir
+/home/shiny/projects/cli-slang-dict/build/server/CMakeFiles/edit_cache.dir
+/home/shiny/projects/cli-slang-dict/build/server/CMakeFiles/rebuild_cache.dir
+/home/shiny/projects/cli-slang-dict/build/client/CMakeFiles/client_app.dir
+/home/shiny/projects/cli-slang-dict/build/client/CMakeFiles/edit_cache.dir
+/home/shiny/projects/cli-slang-dict/build/client/CMakeFiles/rebuild_cache.dir
+/home/shiny/projects/cli-slang-dict/build/common/CMakeFiles/common.dir
+/home/shiny/projects/cli-slang-dict/build/common/CMakeFiles/edit_cache.dir
+/home/shiny/projects/cli-slang-dict/build/common/CMakeFiles/rebuild_cache.dir
