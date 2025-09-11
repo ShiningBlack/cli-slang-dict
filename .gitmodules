@@ -1,0 +1,6 @@
+[submodule "common/httplib"]
+	path = common/httplib
+	url = https://github.com/yhirose/cpp-httplib.git
+[submodule "common/json"]
+	path = common/json
+	url = https://github.com/nlohmann/json.git

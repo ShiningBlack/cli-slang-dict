@@ -1,5 +1,6 @@
 #include <ftxui/dom/elements.hpp>
 #include <ftxui/screen/screen.hpp>
+#include <httplib.h>
 #include <iostream>
 
 int main(int argc, const char* argv[]) {
