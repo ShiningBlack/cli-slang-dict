@@ -4,7 +4,7 @@
 #include <string>
 #include <nlohmann/json.hpp>
 
-namespace MadSlangDict {
+namespace slang_dict {
 
 struct SlangDefinition {
     std::string term;

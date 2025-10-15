@@ -15,4 +15,4 @@ add_library(common STATIC ${COMMON_SOURCES})
 target_include_directories(common PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 
 # 链接 httplib 库
-target_link_libraries(common PRIVATE httplib::httplib nlohmann_json::nlohmann_json)
+target_link_libraries(common PUBLIC httplib::httplib nlohmann_json::nlohmann_json)
